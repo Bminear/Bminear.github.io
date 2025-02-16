@@ -3,8 +3,9 @@
     <title>Brady Minear's website</title>
   </head>
   <body>
-    <h1>Welcome to my site</h1>
-    <p>I chose advanced manufacturing because I enjoy machining and making thing with my hands. I want to try to design and build things so I'm trying out some industrial design classes to see what they are like.</p>
+    <h1>Welcome to Brady Minear's website</h1>
+    <p>I chose advanced manufacturing because I enjoy machining and making thing with my hands.</p> 
+    <p>I want to try to design and build things so I'm trying out some industrial design classes to see what they are like.</p>
     <img src="machining_image.jpeg'> alt="a picture of a CNC lathe from opm-mfg.com">
   </body>
 </html>
